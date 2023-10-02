@@ -1,0 +1,332 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta name="author" content="dev.sitechco.ru" />
+    </head>
+<table  border="1">
+    <tr>
+        <td colspan="4">Название (Аббр.): Низкоуровневый чек-лист функциональных проверок на (jand)</td>
+    </tr>
+    <tr>
+        <td colspan="4">Описание: </td>
+    </tr>
+            <tr>
+        <td colspan="4">Статус: Не согласован </td>
+    </tr>
+            <tr>
+        <td colspan="4" style="background-color: #ced1d1;">Вход и Авторизация</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #ced1d1;"></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Приоритет</td>
+        <td>Проверка</td>
+                <td>Результат</td>
+                    </tr>
+        <tr>
+        <td>
+            1        </td>
+        <td>
+            Средний        </td>
+        <td>Возможность входа в приложение с использованием аккаунта Яндекса</td>
+                <td>Система успешно совершила вход</td>
+                    </tr>
+        <tr>
+        <td>
+            2        </td>
+        <td>
+            Средний        </td>
+        <td>Проверка наличия варианта входа через социальные сети или другие сервисы</td>
+                <td>Система успешно совершила вход</td>
+                    </tr>
+        <tr>
+        <td>
+            3        </td>
+        <td>
+            Средний        </td>
+        <td>Правильная обработка неверных учетных данных и отображение соответствующих сообщений об ошибке</td>
+                <td>Система выдает сообщение о неверных введенных данных</td>
+                    </tr>
+            <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+                <td></td>
+                    </tr>
+            <tr>
+        <td colspan="4" style="background-color: #ced1d1;">Поиск</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #ced1d1;"></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Приоритет</td>
+        <td>Проверка</td>
+                <td>Результат</td>
+                    </tr>
+        <tr>
+        <td>
+            4        </td>
+        <td>
+            Средний        </td>
+        <td>Корректность работы поиска по ключевым словам</td>
+                <td>Поиск выдает запросы исходя из введеного значения</td>
+                    </tr>
+        <tr>
+        <td>
+            5        </td>
+        <td>
+            Средний        </td>
+        <td>Проверка наличия подсказок и автодополнения во время ввода запроса</td>
+                <td>Работает корректно</td>
+                    </tr>
+        <tr>
+        <td>
+            6        </td>
+        <td>
+            Средний        </td>
+        <td>Фильтрация результатов поиска (например, по типу контента, дате и т. д.)</td>
+                <td>Работает корректно</td>
+                    </tr>
+        <tr>
+        <td>
+            7        </td>
+        <td>
+            Средний        </td>
+        <td>Возможность отмены поискового запроса</td>
+                <td>Работает корректно</td>
+                    </tr>
+            <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+                <td></td>
+                    </tr>
+            <tr>
+        <td colspan="4" style="background-color: #ced1d1;">Отображение Результатов</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #ced1d1;"></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Приоритет</td>
+        <td>Проверка</td>
+                <td>Результат</td>
+                    </tr>
+        <tr>
+        <td>
+            8        </td>
+        <td>
+            Средний        </td>
+        <td>Проверка правильности отображения результатов поиска (сайты, изображения, видео и т. д.)</td>
+                <td>Всё отображается корректно</td>
+                    </tr>
+        <tr>
+        <td>
+            9        </td>
+        <td>
+            Средний        </td>
+        <td>Правильное форматирование и сортировка результатов.</td>
+                <td>Всё отображается корректно</td>
+                    </tr>
+        <tr>
+        <td>
+            10        </td>
+        <td>
+            Средний        </td>
+        <td>Работа фильтров и опций сортировки.</td>
+                <td>Работает корректно</td>
+                    </tr>
+            <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+                <td></td>
+                    </tr>
+            <tr>
+        <td colspan="4" style="background-color: #ced1d1;">Интеграция с Алисой</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #ced1d1;"></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Приоритет</td>
+        <td>Проверка</td>
+                <td>Результат</td>
+                    </tr>
+        <tr>
+        <td>
+            11        </td>
+        <td>
+            Средний        </td>
+        <td>Корректность активации Алисы с помощью голосовой команды</td>
+                <td>Алиса активируется</td>
+                    </tr>
+        <tr>
+        <td>
+            12        </td>
+        <td>
+            Средний        </td>
+        <td>Корректность активации Алисы с помощью кнопки</td>
+                <td>Алиса активируется</td>
+                    </tr>
+        <tr>
+        <td>
+            13        </td>
+        <td>
+            Средний        </td>
+        <td>Правильность распознавания и обработки голосовых команд</td>
+                <td>Алиса верно распознает и обрабатывает команды</td>
+                    </tr>
+        <tr>
+        <td>
+            14        </td>
+        <td>
+            Средний        </td>
+        <td>Работа интерактивных функций Алисы (например, напоминания, ответы на вопросы и т. д.).</td>
+                <td>Работает корректно</td>
+                    </tr>
+            <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+                <td></td>
+                    </tr>
+            <tr>
+        <td colspan="4" style="background-color: #ced1d1;">Сохранение и История</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #ced1d1;"></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Приоритет</td>
+        <td>Проверка</td>
+                <td>Результат</td>
+                    </tr>
+        <tr>
+        <td>
+            15        </td>
+        <td>
+            Средний        </td>
+        <td>Сохранение результатов поиска</td>
+                <td>Работает корректно</td>
+                    </tr>
+        <tr>
+        <td>
+            16        </td>
+        <td>
+            Средний        </td>
+        <td>Проверка истории поисковых запросов</td>
+                <td>Отображаются корректно</td>
+                    </tr>
+        <tr>
+        <td>
+            17        </td>
+        <td>
+            Средний        </td>
+        <td>Удаление поисковых запросов</td>
+                <td>Работает корректно</td>
+                    </tr>
+            <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+                <td></td>
+                    </tr>
+            <tr>
+        <td colspan="4" style="background-color: #ced1d1;">Управление Аккаунтом и Настройки</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #ced1d1;"></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Приоритет</td>
+        <td>Проверка</td>
+                <td>Результат</td>
+                    </tr>
+        <tr>
+        <td>
+            18        </td>
+        <td>
+            Средний        </td>
+        <td>Возможность изменения настроек аккаунта.</td>
+                <td>Имеется</td>
+                    </tr>
+        <tr>
+        <td>
+            19        </td>
+        <td>
+            Средний        </td>
+        <td>Работоспособность уведомлений и оповещений.</td>
+                <td>Работают корректно</td>
+                    </tr>
+        <tr>
+        <td>
+            20        </td>
+        <td>
+            Средний        </td>
+        <td>Обновление приложения через магазин приложений (например, App Store или Google Play).</td>
+                <td>Работает корректно</td>
+                    </tr>
+            <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+                <td></td>
+                    </tr>
+            <tr>
+        <td colspan="4" style="background-color: #ced1d1;">Отчеты об ошибках</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #ced1d1;"></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Приоритет</td>
+        <td>Проверка</td>
+                <td>Результат</td>
+                    </tr>
+        <tr>
+        <td>
+            21        </td>
+        <td>
+            Средний        </td>
+        <td>Возможность отправки отчета об ошибке в разработчикам.</td>
+                <td>Имеется</td>
+                    </tr>
+        <tr>
+        <td>
+            22        </td>
+        <td>
+            Средний        </td>
+        <td>Реакция на отправленные отчеты (подтверждение и исправление проблем).</td>
+                <td>Работает</td>
+                    </tr>
+            </table>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript"> 
+(function (d, w, c) { (w[c] = w[c] || []).push(function() {
+	try { w.yaCounter43980704 = new Ya.Metrika({
+			id:43980704,
+			clickmap:true,
+			trackLinks:true,
+			accurateTrackBounce:true
+		}); }
+	catch(e) { } });
+	var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); };
+	s.type = "text/javascript"; s.async = true;
+	s.src = "https://mc.yandex.ru/metrika/watch.js";
+	if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); }
+	else { f(); } })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/43980704" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->

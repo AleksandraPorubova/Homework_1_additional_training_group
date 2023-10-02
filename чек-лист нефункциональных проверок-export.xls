@@ -1,0 +1,242 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta name="author" content="dev.sitechco.ru" />
+    </head>
+<table  border="1">
+    <tr>
+        <td colspan="4">Название (Аббр.): Высокоуровневый чек-лист нефункциональных проверок (nefu)</td>
+    </tr>
+    <tr>
+        <td colspan="4">Описание: </td>
+    </tr>
+            <tr>
+        <td colspan="4">Статус: Не согласован </td>
+    </tr>
+            <tr>
+        <td colspan="4" style="background-color: #ced1d1;">Производительность и Эффективность</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #ced1d1;"></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Приоритет</td>
+        <td>Проверка</td>
+                <td>Результат</td>
+                    </tr>
+        <tr>
+        <td>
+            1        </td>
+        <td>
+            Средний        </td>
+        <td>Скорость загрузки приложения</td>
+                <td>Не превышает нормы</td>
+                    </tr>
+        <tr>
+        <td>
+            2        </td>
+        <td>
+            Средний        </td>
+        <td>Скорость отклика интерфейса</td>
+                <td>Не превышает нормы</td>
+                    </tr>
+        <tr>
+        <td>
+            3        </td>
+        <td>
+            Средний        </td>
+        <td>Потребление ресурсов</td>
+                <td>Не превышает нормы</td>
+                    </tr>
+        <tr>
+        <td>
+            4        </td>
+        <td>
+            Средний        </td>
+        <td>Стабильность использования</td>
+                <td>Работает стабильно</td>
+                    </tr>
+            <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+                <td></td>
+                    </tr>
+            <tr>
+        <td colspan="4" style="background-color: #ced1d1;">Совместимость</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #ced1d1;"></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Приоритет</td>
+        <td>Проверка</td>
+                <td>Результат</td>
+                    </tr>
+        <tr>
+        <td>
+            5        </td>
+        <td>
+            Средний        </td>
+        <td>Совместимость с устройствами</td>
+                <td>работает корректно на разных моделях мобильных устройств</td>
+                    </tr>
+        <tr>
+        <td>
+            6        </td>
+        <td>
+            Средний        </td>
+        <td>Совместимость с операционными системами</td>
+                <td>работает корректно на разных разных версиях операционных систем</td>
+                    </tr>
+            <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+                <td></td>
+                    </tr>
+            <tr>
+        <td colspan="4" style="background-color: #ced1d1;">Безопасность</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #ced1d1;"></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Приоритет</td>
+        <td>Проверка</td>
+                <td>Результат</td>
+                    </tr>
+        <tr>
+        <td>
+            7        </td>
+        <td>
+            Средний        </td>
+        <td>Защита данных</td>
+                <td>Личные данное пользователя защищены</td>
+                    </tr>
+        <tr>
+        <td>
+            8        </td>
+        <td>
+            Средний        </td>
+        <td>Аутентификация и авторизация</td>
+                <td>Безопасность входа в приложение и доступа к данным</td>
+                    </tr>
+            <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+                <td></td>
+                    </tr>
+            <tr>
+        <td colspan="4" style="background-color: #ced1d1;">Доступность</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #ced1d1;"></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Приоритет</td>
+        <td>Проверка</td>
+                <td>Результат</td>
+                    </tr>
+        <tr>
+        <td>
+            9        </td>
+        <td>
+            Средний        </td>
+        <td>Доступность для пользователей с ограниченными возможностями</td>
+                <td>Доступно и используемо для всех пользователей, включая людей с ограниченными возможностями</td>
+                    </tr>
+            <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+                <td></td>
+                    </tr>
+            <tr>
+        <td colspan="4" style="background-color: #ced1d1;">Тестирование Нагрузки и Производительности</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #ced1d1;"></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Приоритет</td>
+        <td>Проверка</td>
+                <td>Результат</td>
+                    </tr>
+        <tr>
+        <td>
+            10        </td>
+        <td>
+            Средний        </td>
+        <td>Тестирование на высокую нагрузку</td>
+                <td>Стабильно работает при максимальной нагрузке</td>
+                    </tr>
+        <tr>
+        <td>
+            11        </td>
+        <td>
+            Средний        </td>
+        <td>Способность к масштабированию</td>
+                <td>Приложение может масштабироваться в случае увеличения количества пользователей</td>
+                    </tr>
+            <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+                <td></td>
+                    </tr>
+            <tr>
+        <td colspan="4" style="background-color: #ced1d1;">Тестирование Сети</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #ced1d1;"></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Приоритет</td>
+        <td>Проверка</td>
+                <td>Результат</td>
+                    </tr>
+        <tr>
+        <td>
+            12        </td>
+        <td>
+            Средний        </td>
+        <td>Работа в оффлайн-режиме</td>
+                <td>Загруженный ранее контент отображается, при попытке загрузить новый контент отображается сообщении об отсутствии интернета</td>
+                    </tr>
+        <tr>
+        <td>
+            13        </td>
+        <td>
+            Средний        </td>
+        <td>Обработка медленных соединений</td>
+                <td>Приложение работает стабильно с соответствующей скоростью</td>
+                    </tr>
+            </table>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript"> 
+(function (d, w, c) { (w[c] = w[c] || []).push(function() {
+	try { w.yaCounter43980704 = new Ya.Metrika({
+			id:43980704,
+			clickmap:true,
+			trackLinks:true,
+			accurateTrackBounce:true
+		}); }
+	catch(e) { } });
+	var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); };
+	s.type = "text/javascript"; s.async = true;
+	s.src = "https://mc.yandex.ru/metrika/watch.js";
+	if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); }
+	else { f(); } })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/43980704" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
